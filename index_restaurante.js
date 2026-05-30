@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  BOT DE WHATSAPP — RESTAURANTE
+ *  BOT DE WHATSAPP — RESTAURANTe
  *  Tecnologías: whatsapp-web.js
  * ============================================================
  */
