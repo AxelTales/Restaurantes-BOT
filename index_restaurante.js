@@ -174,3 +174,4 @@ process.on('unhandledRejection', (reason) => {
 // ──────────────────────────────────────────────────────────────
 console.log('[Bot]  🔧 Inicializando cliente de WhatsApp...');
 client.initialize();
+
